@@ -1,0 +1,6 @@
+{
+  "name": "Mirror Optics",
+  "description": "Interactive Convex & Concave Mirror Ray Diagram Physics Simulation with real-time ray tracing and formulas. Developed by Tanvir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
